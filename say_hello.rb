@@ -1,4 +1,4 @@
-say_hello(name = "name")
+def say_hello(name = "name")
   puts "Hello #{name}"
 end
 
