@@ -1,2 +1,3 @@
 say_hello("Kent Beck")
-  puts "Hello"
+  puts "Hello, #{name}."
+end
