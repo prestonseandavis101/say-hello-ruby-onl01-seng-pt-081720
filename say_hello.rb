@@ -1,1 +1,1 @@
-say_hello("Carly")
+say_hello("")
